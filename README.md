@@ -1,4 +1,8 @@
 ### Developed by Nevash Gobin
+
+Screenshots:
+
+<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 468”>
 ## Available Scripts
 
 In the project directory, you can run:
