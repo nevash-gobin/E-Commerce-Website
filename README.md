@@ -2,8 +2,9 @@
 
 Screenshots:
 
-![Uploading Screen Shot 2021-06-16 at 6.46.34 PM.p<img width="1317" alt="Screen Shot 2021-06-16 at 6 45 18 PM" src="https://user-images.githubusercontent.com/49222216/122306247-183e6e80-ced6-11eb-907d-e957c32abd3a.png">
-ng…]()
+<img width="1317" alt="Screen Shot 2021-06-16 at 6 46 34 PM" src="https://user-images.githubusercontent.com/49222216/122306320-399f5a80-ced6-11eb-96b5-c9dd1192d5ed.png">
+<img width="1317" alt="Screen Shot 2021-06-16 at 6 45 18 PM" src="https://user-images.githubusercontent.com/49222216/122306336-3efca500-ced6-11eb-88b9-a44a74fa7920.png">
+
 
 ## Available Scripts
 
